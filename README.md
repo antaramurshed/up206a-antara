@@ -16,5 +16,5 @@ Learn to visualize data spatially to communicate the importance of place-based i
 Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
 
 ## (Current) Project Idea
-Comparing past and current Wildfire Urban Interface (WUI) spatial data with demographic data (race, ethnicity, income, housing status) at the county level in the State of California to understand which groups are most likely to be affected by wildfires in the past, present, and future. 
+Comparing past and current Wildland Urban Interface (WUI) spatial data with demographic data (race, ethnicity, income, housing status) at the county level in the State of California to understand which groups are most likely to be affected by wildfires in the past, present, and future. 
 
